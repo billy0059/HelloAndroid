@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="title">Title</string>
+    <string name="enter_title">Enter title</string>
+    <string name="content">Content</string>
+    <string name="enter_content">Enter content</string>
+</resources>
